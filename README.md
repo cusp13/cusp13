@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyansh Sharma</h1>
 <h3 align="center">A passionate developer!!</h3>
 
-- 🔭 I’m currently working on **Task Manager App**
-
-- 🌱 I’m currently learning **NodeJs**
-
-- 💬 Ask me about **ReactJs**
-
 - 📫 How to reach me **divy852964@gmail.com**
 
 - ⚡ Fun fact **I make cool things**
