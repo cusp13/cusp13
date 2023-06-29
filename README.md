@@ -4,8 +4,9 @@
 
 
 - 📫 How to reach me **divy852964@gmail.com**
-
-- ⚡ Fun fact **I make cool things**
+- ⚡ Strongest Area  **Data Structures and Algorithms**
+- ⚡ Ask me about **MERN stack**
+- 
 <h3 align="left">Connect with me:</h3> 
 <a href="https://github.com/cusp13/cusp13/files/11904202/Divyansh-Sharma_Resume.docx.pdf">Resume</a>
 <p align="left">
