@@ -8,7 +8,7 @@
 - ⚡ Ask me about **MERN stack**
 - ⚡ making a **Blood Bank** Full stack project using MERN Stack.
 <h3 align="left">Connect with me:</h3> 
-<a href="https://github.com/cusp13/cusp13/files/11904202/Divyansh-Sharma_Resume.pdf"><Resume</a>
+<a href="https://shorturl.at/cnyLY"><Resume</a>
 <p align="left">
 <a href="https://codeforces.com/profile/cusp13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cusp13" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cusp13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cusp13" height="30" width="40" /></a>
