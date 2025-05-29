@@ -5,7 +5,6 @@
 - 📫 How to reach me **divy852964@gmail.com**
 - ⚡ Strongest Area  **Data Structures and Algorithms**
 - ⚡ Ask me about **MERN stack**
-- ⚡ making a **Blood Bank** Full stack project using MERN Stack.
 <h3 align="left">Connect with me:</h3> 
 <h2><a href="https://shorturl.at/cnyLY"><Resume</a></h2>
 <p align="left">
